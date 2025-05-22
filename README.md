@@ -8,6 +8,14 @@ In Pet's Journey Home, you'll accompany a pet through a dangerous wilderness, do
 |  Cat  | 140          |  Enemy Evasion  - 50% chance to dodge enemy attacks |
 |  Bird | 100          |  Energy Saver  - Uses 5 less energy per movement    |
 
+# Map & Diffculty
+| Difficulty | Map Size | Loss Energy per Step | 
+| ---------- | ---------| -------------------- | 
+| Easy       | 6 × 6    | 10                   | 
+| Medium     | 6 × 6    | 15                   |
+| Hard       | 7 × 7    | 15                   | 
+
+
 # Items
 | Item    | Effect                                  |
 | ------- | --------------------------------------- |

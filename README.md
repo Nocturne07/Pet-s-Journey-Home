@@ -19,8 +19,8 @@ In Pet's Journey Home, you'll accompany a pet through a dangerous wilderness, do
 # Items
 | Item    | Effect                                  |
 | ------- | --------------------------------------- |
-| Food    | Restores **+30** energy                 |
-| Water   | Restores **+20** energy                 |
+| Food    | Restores 30 energy                      |
+| Water   | Restores 20 energy                      |
 | Shield  | Blocks the next trap or enemy encounter |
 
 # Random events

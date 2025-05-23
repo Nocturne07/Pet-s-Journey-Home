@@ -1,5 +1,6 @@
 # Pet-s-Journey-Home
 In Pet's Journey Home, you'll accompany a pet through a dangerous wilderness, dodging traps, fighting off wild beasts, and using props wisely to find your way home with limited energy.
+What you will encounter with each step is unknown, so think carefully about whether your energy will be able to face a sudden negative event before taking the next step.
 
 # Pets & Skills
 | Pet   | Basic Energy | Unique Skill                                        |

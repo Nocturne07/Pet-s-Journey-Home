@@ -33,7 +33,9 @@ def choose_pet():
 
     return name, pet_type
 
-def play_game():
+def main():
+    print("Welcome to Pet's Journey Home!")
+    
     grid_size, base_energy_loss = choose_difficulty()
 
     # set home and pet positions
@@ -81,3 +83,6 @@ def play_game():
         print('GAME OVER.')
     elif pet.position == home_position and pet.alive:
         print(f'{pet.name} is safely back home. Congratulations!')
+
+if __name__ == "__main__":
+    main()
